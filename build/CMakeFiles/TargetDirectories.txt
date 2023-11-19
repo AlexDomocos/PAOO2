@@ -1,0 +1,13 @@
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/Media/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/Media/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/Book/CMakeFiles/Book.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/Book/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/Book/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/Movie/CMakeFiles/Movie.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/Movie/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/Movie/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/src/CMakeFiles/MediaManagementSystem.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/src/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/build/src/CMakeFiles/rebuild_cache.dir
